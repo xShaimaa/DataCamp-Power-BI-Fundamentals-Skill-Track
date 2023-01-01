@@ -21,3 +21,5 @@ ___
 | 06 		  | [Data Modeling in Power BI](/06-Data-Modeling-in-Power-BI/) 						|
 ___
 
+# Certificate
+![Skill Track Certificate](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/blob/master/Skill%20Track%20Certificate.png)
